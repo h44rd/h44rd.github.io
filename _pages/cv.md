@@ -11,49 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Visualization (Computer Graphics), *Texas A&M University*, May 2021 (expected)
+* B.Tech. (Hons.) in Computer Science and Engineering, *International Institute of Information Technology, Hyderabad*, May 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018: **Software Research and Development Intern**
+  * KLA Corporation, India
+  * Developed a robust Deep learning solution to automate edge analysis in SEM images
+  * Built training, test and validation dataset from scratch with semi-automatic annotation
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2018 and Spring 2019: **Undergraduate Research Assistant**
+  * [CVIT, IIIT Hyderabad](http://cvit.iiit.ac.in/)
+  * Developed a full stack data collection solution to create a facial recognition dataset
+  * Included Android app and server-side scripts
+  * Supervisor: Dr. Anoop Namboodiri
+
+* Fall 2019 and Spring 2020: **Teaching Assistant**
+  * Texas A&M University, College Station, TX
+  * Taught the concepts of Object Oriented Programming and OpenGL to undergraduate students
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * C++, C, C#, Python, JavaScript, Matlab, Java, Bash
+* Libraries and Frameworks
+  * OpenGL, WebGL, Unity VR, Tensorflow, OpenCV
 
-Publications
+Projects
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.projects %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
