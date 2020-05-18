@@ -14,3 +14,5 @@ I am passionate about developing scalable software and research that aids the ad
 
 In my free time, I play soccer, watch historic documentaries and read dystopian fiction. I have won multiple intra-college soccer tournaments and have been a part of the IIIT Hyderabad Soccer team as a right attacking winger.
 
+Please find my updated resume [here](/files/resume.pdf).
+
