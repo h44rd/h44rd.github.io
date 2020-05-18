@@ -4,15 +4,15 @@ excerpt: "Create interesting Voronoi diagrams interactively<br/><img src='/image
 collection: projects
 ---
 
-* 
-* Animation in Maya procedurally constructed using the 3D pose
-* Client-Sever communication model used to offload CNN computation from Maya
+* A customizable WebGL Application which creates Voronoi diagrams for sets of seeds
+* Library used: THREE.js 
+* Application being used for on-going research
 
-### <i class="fab fa-github" aria-hidden="true"></i> [Code](https://github.com/h44rd/PoseTransferMayaPlugin)
+### <i class="fab fa-github" aria-hidden="true"></i> [Code](https://github.com/h44rd/Voronoi2D/tree/gh-pages)
 {: #code}
 
-## Video
+## Website
 
-| [![Automatic Animation](https://res.cloudinary.com/marcomontalbano/image/upload/v1589761941/video_to_markdown/images/youtube--hCWwee0yy-I-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/hCWwee0yy-I "Automatic Animation") |
+| [![Website](/images/voronoi2D.png)](http://haardpanchal.ml/Voronoi2D/ "Voronoi2D") |
 |:--:|
-| *Video demostrating Pose Transfer* |
+| *Voronoi2D Website* |
