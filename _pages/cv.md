@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Visualization (Computer Graphics), *Texas A&M University*, May 2021 (expected)
-* B.Tech. (Hons.) in Computer Science and Engineering, *International Institute of Information Technology, Hyderabad*, May 2019
+* **M.S. in Visualization** (Computer Graphics), *Texas A&M University*, May 2021 (expected)
+* **B.Tech. (Hons.) in Computer Science and Engineering**, *International Institute of Information Technology, Hyderabad*, May 2019
 
 Work experience
 ======
