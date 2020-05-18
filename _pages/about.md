@@ -12,7 +12,7 @@ I am currently a first year student at the [Texas A&M University](https://www.ta
 
 I am passionate about developing scalable software and research that aids the advancement of the Computer Graphics field. I am also interested in parallel algorithms and enjoy writing GPU accelarated programs. Additionally, my interests include machine learning and reinforcement learning, and their applications in Computer Graphics. I like working with Virtual Reality systems and performing surveys to gain insights to the Human Computer Interaction techniques.
 
-In my free time, I play soccer, watch historic documentaries and read dystopian fiction. I have won multiple intra-college soccer tournaments and have been a part of the IIIT Hyderabad Soccer team as a right attacking winger.
+In my free time, I enjoy playing soccer, watching historic documentaries and reading dystopian fiction. I had the opportunity to play in the IIIT Hyderabad Soccer team during my undergraduate studies.
 
 Please find my updated resume [here](/files/resume.pdf).
 
